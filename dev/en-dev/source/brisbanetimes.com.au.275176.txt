@@ -1,0 +1,19 @@
+Google Pixel 4 able to photograph Milky Way
+Along with adding 2x optical zoom, the second lens allows the Pixel 4 to see in 3D; thus doing a better job of blurring the background in portrait mode than previous Pixel handsets, which relied purely on software to achieve this "bokeh" effect.
+To establish the camera's credentials, Google brought legendary portrait photographer Annie Leibovitz on stage to talk about her experience shooting with the Pixel 4 over the past 12 months.
+Machine learning is still a strong focus for every aspect of Google's new smartphones, relying on "computational photography" to improve its HDR+ mode by combining up to nine different images.
+New dual exposure controls offer separate sliders for brightness and shadows, allowing users to preview HDR+ in real-time.
+The phone also relies on machine learning for improved auto white balance and an enhanced Night Sight night mode, which is sensitive enough to capture the Milky Way in the night sky.
+Beyond the second camera lens, the Pixel 4 introduces a Soli "radar chip" front sensor which recognises Motion Sense gestures, allowing users to skip music, dismiss timers, snooze alarms or silence their phone with a wave of their hand.
+All Motion Sense computations run in the device rather than connecting to the internet, as does the improved Google Assistant, as the tech giant focused on both reducing response times and enhancing user privacy.
+Google's continued push to make the most of its machine learning capabilities has also spawned a new voice recorder app which transcribes audio live, without sending data to the internet.
+For now the app only supports in English, with more languages to come.
+The Pixel 4 will also be the first phone to support the Google Stadia cloud gaming platform, which opens its doors on November 19 in the US but is yet to receive an Australian launch date.
+Beyond the new Pixel handsets, Google also unveiled a new Pixelbook Go Chromebook and second-generation Google Pixel Buds.
+Arriving next year, but not confirmed for Australia, the new Bluetooth 5.0 smart earbuds are completely wireless and feature adaptive audio which monitors your environment and continually adjusts the sound to provide optimal clarity.
+The new Bluetooth 5.0 smart earbuds are completely wireless and adjust the sound to the noise levels around you.
+Meanwhile, Google also announced an upgrade to its mesh Wi-Fi home routers in the Nest WiFi, relying on a new separate router combined with several base stations working in unison to improve wireless coverage through the home.
+Adopting the Nest name, the new Wi-Fi system doubles the range of its predecessor and adds a built-in microphone and speaker for using Google Assistant on each base station around the home.
+It launches in Australia on November 5, for $399 with the router and one Wi-Fi point, or $549 AUD with a second Wi-Fi point.
+The Google Home Mini also received an upgrade, with the new $79 Nest Mini improving sound quality - doubling the bass - and adding an integrated wall mount.
+All Google smart speakers are set to receive a new intercom feature for communicating between devices in the home, plus the ability to call the Nest Mini from outside the home using the Google Home app.
